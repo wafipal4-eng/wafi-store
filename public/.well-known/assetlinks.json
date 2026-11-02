@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wafipal.store",
+      "sha256_cert_fingerprints": [
+        "A0:6F:8F:CC:A3:BB:5D:0F:A2:E1:59:C6:AC:D8:F4:38:FF:06:79:3D:28:BB:05:88:CF:20:FA:63:63:00:89:8D"
+      ]
+    }
+  }
+]

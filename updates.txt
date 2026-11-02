@@ -1,0 +1,62 @@
+✅ need a sweet alert for success and failure
+✅ store id 
+✅ (include store id with them "manually" )
+✅ dynamic colors easily 
+✅ admin table
+✅ clean up database actions.
+✅ text-color
+✅ font-family
+✅ make it dynamic to change logo 
+✅ show details for the customer before sending and accepting
+✅ fix the storage 
+✅ host vercel 
+✅ authentication
+✅ fix categories on product creation
+✅ sidebar issue with mobile for admin
+✅ caching, cookies maybe? 
+✅ show order details error 
+✅ in admin categories delete
+✅ the button of the cart should be added to cart / get the id and 
+✅ fix the authentication under /dashboard pages
+✅ delete product
+✅ soft delete on product delete
+✅ show product button on admin-products
+✅ dark theme  
+✅ admin page (should not be hard)
+✅ categories are not working - update : fetched but not displayed
+✅ get the slected item and category in the product item
+✅ tranlsations 
+✅ cart button at navbar woth number and price make it real time.
+✅ order summery aswell 
+✅ checkout based on cart and prodcut details componennt
+✅ admin statistics
+✅ add subscription_plan and product max , sorry you cant add more products, upgrade your plan to do this .
+
+
+
+domain 
+fix the authentication and user table on store id only 
+cleanup code specially service and naming there, functions that are not used, comments, console.log 
+
+use alert when adding a product to cart in product page, use it for the rest of the project.
+
+
+
+Tested :
+✅ add-product All good now
+✅ admin-categories All good now  
+✅ admin-orders All good now
+✅ admin-products needs update, and each item of categories to be in stock out of stock, price
+✅ shipping
+✅ alert on mobile
+✅ cart issue
+
+✅ price
+
+fix new line
+
+
+✅ fix the marquee to be easier to change
+✅ fix the colors 
+main image hero issue (make it dynamic)
+✅ dynamic social media links
